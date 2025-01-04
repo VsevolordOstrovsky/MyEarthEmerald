@@ -1,0 +1,10 @@
+name: MyEarth
+version: '1.0-SNAPSHOT'
+main: lordostrov.myEarth.MyEarth
+api-version: '1.20'
+
+commands:
+  buy:
+    description:
+      permission:
+      usage: /<command> <name>
